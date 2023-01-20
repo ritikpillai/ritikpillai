@@ -34,6 +34,10 @@ I'm a **Front-End Developer**, I specialize in Javascript and also have great ex
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>
 
+ <!-- <h3>Hacktoberfest Contribution's Holopin badges</h3> -->
+
+
+
 <h3 align="left">Connect with me:</h3> 
 <div align="left">
 <a href="https://github.com/iKoNFlair" target="_blank">
