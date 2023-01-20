@@ -34,7 +34,7 @@ I'm a **Front-End Developer**, I specialize in Javascript and also have great ex
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>
 
-<h3>Hacktoberfest Contribution Holopin Badges</h3>
+<h3>Hacktoberfest Contribution's Holopin Badges</h3>
 <div>
   <img src="https://user-images.githubusercontent.com/102801379/213742726-be7b14c2-5935-4ed5-bd00-941937adbff0.png" width="170" height="170">
   <img src="https://user-images.githubusercontent.com/102801379/213742738-cd02936f-4f34-4a7e-b790-732e955ebbc5.png" width="170" height="170">
