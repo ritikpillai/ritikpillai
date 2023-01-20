@@ -44,8 +44,11 @@ I'm a **Front-End Developer**, I specialize in Javascript and also have great ex
 </a>  
 </div> 
 
+<br>
+<br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iKoNFlair&show_icons=true)  
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iKoNFlair) -->
 
-![Profile views](https://gpvc.arturio.dev/iKoNFlair)  
+ ![Profile views](https://gpvc.arturio.dev/iKoNFlair)  
