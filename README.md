@@ -7,7 +7,7 @@ I'm a **Front-End Developer**, I specialize in Javascript and also have great ex
 - 🔭 I’m currently working on Full Stack Development 
 - 🌱 I’m currently learning Back-End technologies. 
 - 📫 How to reach me: ritikpillai8@gmail.com 
-- ⚡  Fun fact: Cats are also programmers :) !!! 
+- ⚡  Fun fact: Every Cat is a programmers in itself :) !!! 
 
 <h3>Languages and Tools</h3>
 <div align="left">
