@@ -61,4 +61,4 @@ I'm a **Front-End Developer**, I specialize in Javascript and also have great ex
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iKoNFlair&show_icons=true)  
 
- ![Profile views](https://gpvc.arturio.dev/iKoNFlair)  
+<!--  ![Profile views](https://gpvc.arturio.dev/iKoNFlair)   -->
