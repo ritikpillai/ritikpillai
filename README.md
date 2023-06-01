@@ -57,8 +57,6 @@ I'm a **Web Developer**, I specialize in Javascript and also have great experien
 <br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IkoNFlair)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iKoNFlair&show_icons=true)  
 
 <!--  ![Profile views](https://gpvc.arturio.dev/iKoNFlair)   -->
