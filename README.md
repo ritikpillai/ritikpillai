@@ -2,7 +2,7 @@
 #### A passionate and reliable Web Developer.
 ![A passionate and reliable Web Developer.](https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer_still_2x.gif?compress=1&resize=400x300)
 
-I'm a **Web Developer**, I specialize in Javascript and also have great experience in C++. Always dedicated to learn new things as well as implement those. 
+I'm a **Web Developer**, I specialize in Javascript and also have great experience working with C++. Always dedicated to learn new things as well as implement those. 
 
 - 🔭 I’m currently working on Full Stack Development 
 - 🌱 I’m currently learning Back-End technologies. 
