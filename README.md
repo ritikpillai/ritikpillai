@@ -4,8 +4,7 @@
 
 I'm a **Web Developer**, I specialize in Javascript and also have great experience working with C++. Always dedicated to learn new things as well as implement those. 
 
-- 🔭 I’m currently working on Full Stack Development 
-- 🌱 I’m currently learning Back-End technologies. 
+- 🔭 I’m currently working on Full Stack Development  
 - 📫 How to reach me: ritikpillai8@gmail.com 
 - ⚡  Fun fact: Every cat is a programmer in itself :) !!! 
 
