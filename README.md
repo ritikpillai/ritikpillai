@@ -44,16 +44,6 @@ I'm a **Web Developer**, I specialize in Javascript and also have great experien
   <img src="https://user-images.githubusercontent.com/102801379/213742775-a48e2bc2-aae7-4896-94fe-a3b84f9c5edb.png" width="20%" height="20%">
 </div>
 
-<h3>Hacktoberfest 2022 Contribution's Holopin Badges</h3>
-<div>
-  <img src="https://github.com/iKoNFlair/iKoNFlair/blob/main/New%20folder/image-removebg-preview%20(8).png" width="18%" height="15%">
-  <img src="https://github.com/iKoNFlair/iKoNFlair/blob/548de038be5eb30724f9d1750ad0c595dada1505/New%20folder/image-removebg-preview%20(2).png" width="20%" height="20%">
-  <img src="https://github.com/iKoNFlair/iKoNFlair/blob/main/New%20folder/image-removebg-preview%20(2).png" width="20%" height="20%">
-  <img src="https://github.com/iKoNFlair/iKoNFlair/blob/main/New%20folder/image-removebg-preview%20(3).png" width="20%" height="20%">
-  <img src="https://user-images.githubusercontent.com/102801379/213742763-35b79a97-f689-44b2-abc4-63fef773ff3d.png" width="20%" height="20%">
-  <img src="https://user-images.githubusercontent.com/102801379/213742775-a48e2bc2-aae7-4896-94fe-a3b84f9c5edb.png" width="20%" height="20%">
-</div>
-
 <h3 align="left">Connect with me:</h3> 
 <div align="left">
 <a href="https://github.com/iKoNFlair" target="_blank">
