@@ -34,12 +34,22 @@ I'm a **Web Developer**, I specialize in Javascript and also have great experien
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>
 
-<h3>Hacktoberfest Contribution's Holopin Badges</h3>
+<h3>Hacktoberfest 2022 Contribution's Holopin Badges</h3>
 <div>
   <img src="https://user-images.githubusercontent.com/102801379/213742726-be7b14c2-5935-4ed5-bd00-941937adbff0.png" width="20%" height="20%">
   <img src="https://user-images.githubusercontent.com/102801379/213742783-a015d892-4729-4f98-8f2e-4a7fe4afb063.png" width="18%" height="15%">
   <img src="https://user-images.githubusercontent.com/102801379/213742738-cd02936f-4f34-4a7e-b790-732e955ebbc5.png" width="20%" height="20%">
   <img src="https://user-images.githubusercontent.com/102801379/213742745-64e35531-48cc-4900-88ec-8b1d32a7a27a.png" width="20%" height="20%">
+  <img src="https://user-images.githubusercontent.com/102801379/213742763-35b79a97-f689-44b2-abc4-63fef773ff3d.png" width="20%" height="20%">
+  <img src="https://user-images.githubusercontent.com/102801379/213742775-a48e2bc2-aae7-4896-94fe-a3b84f9c5edb.png" width="20%" height="20%">
+</div>
+
+<h3>Hacktoberfest 2022 Contribution's Holopin Badges</h3>
+<div>
+  <img src="https://github.com/iKoNFlair/iKoNFlair/blob/main/New%20folder/image-removebg-preview%20(8).png" width="18%" height="15%">
+  <img src="https://github.com/iKoNFlair/iKoNFlair/blob/548de038be5eb30724f9d1750ad0c595dada1505/New%20folder/image-removebg-preview%20(2).png" width="20%" height="20%">
+  <img src="https://github.com/iKoNFlair/iKoNFlair/blob/main/New%20folder/image-removebg-preview%20(2).png" width="20%" height="20%">
+  <img src="https://github.com/iKoNFlair/iKoNFlair/blob/main/New%20folder/image-removebg-preview%20(3).png" width="20%" height="20%">
   <img src="https://user-images.githubusercontent.com/102801379/213742763-35b79a97-f689-44b2-abc4-63fef773ff3d.png" width="20%" height="20%">
   <img src="https://user-images.githubusercontent.com/102801379/213742775-a48e2bc2-aae7-4896-94fe-a3b84f9c5edb.png" width="20%" height="20%">
 </div>
