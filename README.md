@@ -39,7 +39,7 @@ I'm a **Web Developer**, I specialize in Javascript and also have great experien
 
 <h3 align="left">Connect with me:</h3> 
 <div align="left">
-<a href="https://github.com/iKoNFlair" target="_blank">
+<a href="https://github.com/ritikpillai" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ritikpillai88" target="_blank">
