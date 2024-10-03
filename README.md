@@ -50,6 +50,6 @@ I'm a **Web Developer**, I specialize in Javascript and also have great experien
 <br>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iKoNFlair&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikpillai&show_icons=true)  
 
-<!--  ![Profile views](https://gpvc.arturio.dev/iKoNFlair)   -->
+<!--  ![Profile views](https://gpvc.arturio.dev/ritikpillai)   -->
