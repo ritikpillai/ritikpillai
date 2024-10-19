@@ -10,7 +10,10 @@ I'm a **Web Developer**, I specialize in Javascript and also have great experien
 
 <h3>Programming Language</h3>
 <div align="left">
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50"/> </a>
+
+
  </div>
   
 <h3>Web Technologies</h3>
