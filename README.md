@@ -30,7 +30,8 @@ I'm a **Web Developer**, I specialize in Javascript and also have great experien
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-<h3>Hacktoberfest 2022 Contribution's Holopin Badges</h3>
+<h3>Hacktoberfest Contribution's Holopin Badges</h3>
+<h3>2022</h3>
 <div>
   <img src="https://user-images.githubusercontent.com/102801379/213742783-a015d892-4729-4f98-8f2e-4a7fe4afb063.png" width="18%" height="14%">
   <img src="https://user-images.githubusercontent.com/102801379/213742738-cd02936f-4f34-4a7e-b790-732e955ebbc5.png" width="20%" height="20%">
@@ -39,7 +40,7 @@ I'm a **Web Developer**, I specialize in Javascript and also have great experien
   <img src="https://user-images.githubusercontent.com/102801379/213742775-a48e2bc2-aae7-4896-94fe-a3b84f9c5edb.png" width="20%" height="20%">
 </div>
 
-<h3>Hacktoberfest 2023 Contribution's Holopin Badges</h3>
+<h3>2023</h3>
 <div>
   <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16ZXJwM3EzMDUwMGZsZHZ4d2JwZTdhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="19%" height="25%">
   <img src="https://assets.holopin.io/hf2023levels/level1-blue-0-0-0.webp" width="19.5%" height="20%">
@@ -48,7 +49,7 @@ I'm a **Web Developer**, I specialize in Javascript and also have great experien
   <img src="https://assets.holopin.io/hf2023levels/level4-blue-0-0-0.webp" width="19.5%" height="20%">
 </div>
 
-<h3>Hacktoberfest 2024 Contribution's Holopin Badges</h3>
+<h3>2024</h3>
 <div>
   <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" width="19.5%" height="20%">
   <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-tea-0-0-0.webp" width="19.5%" height="20%">
